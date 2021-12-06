@@ -12,7 +12,7 @@
 <a alt='linkedin' href="https://www.linkedin.com/in/joshuamsmall/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a alt='facebook' href="https://www.facebook.com/WasteOfADrumBum/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <a alt='instagram' href="https://www.instagram.com/one_small_family/"><img src="https://img.shields.io/badge/One_Small_Family-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a alt='tiktok' href=""><img src="https://img.shields.io/badge/<handle>-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
+<a alt='tiktok' href="https://www.tiktok.com/@wasteofadrumbum?"><img src="https://img.shields.io/badge/WasteOfADrumBum-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
 
 <a alt='steam' href="https://steamcommunity.com/id/wasteofadrumbum/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a alt='xbox' href="https://account.xbox.com/Profile?Gamertag=Kidd%20Kaos%2069"><img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"></a>
