@@ -9,10 +9,14 @@
 <a alt='zoom' href=""><img align="left" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"></a>
 <a alt='slack' href=""><img align="left" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
 
+<BR><BR>
+
 <a alt='linkedin' href="https://www.linkedin.com/in/joshuamsmall/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a alt='facebook' href="https://www.facebook.com/WasteOfADrumBum/"><img align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <a alt='instagram' href="https://www.instagram.com/one_small_family/"><img align="left" src="https://img.shields.io/badge/One_Small_Family-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a alt='tiktok' href=""><img align="left" src="https://img.shields.io/badge/<handle>-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
+
+<BR><BR>
 
 <a alt='steam' href="https://steamcommunity.com/id/wasteofadrumbum/"><img align="left" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a alt='xbox' href="https://account.xbox.com/Profile?Gamertag=Kidd%20Kaos%2069"><img align="left" src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"></a>
@@ -23,6 +27,8 @@
 </br>
 
 ## 🌱 I’m currently mastering:
+
+<BR>
 
 <img align="left" src="https://img.shields.io/badge/Ruby%20-%2320232a.svg?&style=for-the-badge&logo=ruby&logoColor=red&style=plastic" />
 <img align="left" src="https://img.shields.io/badge/Ruby%20on%20Rails-%2320232a.svg?&style=for-the-badge&logo=rubyonrails&
@@ -35,12 +41,16 @@ logoColor=red&style=plastic" />
 
 ## 💻 I'm and Expert In:
 
+<BR>
+
 ### Languages:
 
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+
+<BR><BR>
 
 ### Frameworks, Platforms and Libraries:
 
@@ -65,6 +75,8 @@ logoColor=red&style=plastic" />
 <img align="left" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
 <img align="left" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
 
+<BR><BR>
+
 ### Desgin:
 
 <img align="left" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
@@ -75,13 +87,19 @@ logoColor=red&style=plastic" />
 <img align="left" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
 <img align="left" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 
+<BR><BR>
+
 ### IDEs/Editors:
+
+<br>
 
 <img align="left" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"/>
 <img align="left" src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"/>
 <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
+
+<BR><BR>
 
 ### Version Control:
 
@@ -90,11 +108,15 @@ logoColor=red&style=plastic" />
 <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
+<BR><BR>
+
 ### Hosting/SaaS:
 
 <img align="left" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+
+<BR><BR>
 
 ### Databases:
 
@@ -102,23 +124,33 @@ logoColor=red&style=plastic" />
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+<BR><BR>
+
 ### ORM:
 
 <img align="left" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
+
+<BR><BR>
 
 ### CI:
 
 <img align="left" src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white"/>
 
+<BR><BR>
+
 ### Testing:
 
 <img align="left" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+
+<BR><BR>
 
 ### Cloud Storage:
 
 <img align="left" src="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+
+<BR><BR>
 
 ### Operating Ssystems:
 
@@ -128,6 +160,8 @@ logoColor=red&style=plastic" />
 <img align="left" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
 <img align="left" src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
+<BR><BR>
+
 ### Browsers:
 
 <img align="left" src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/>
@@ -136,6 +170,8 @@ logoColor=red&style=plastic" />
 <img align="left" src="https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white"/>
 
+<BR><BR>
+
 ### Office:
 
 <img align="left" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
@@ -143,6 +179,8 @@ logoColor=red&style=plastic" />
 <img align="left" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+
+<BR><BR>
 
 ### Everything Else:
 
