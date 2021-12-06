@@ -1,8 +1,6 @@
-<img align="left" src='https://media-exp1.licdn.com/dms/image/C5616AQGLk0fepAK36A/profile-displaybackgroundimage-shrink_350_1400/0/1597865347223?e=1644451200&v=beta&t=eGrSSVk8MYM1pULYDyt0TaBW6ViD01oAkepKMT5n4O0'/>
-
 # Husband | Father | Full Stack Engineer Specializing in MERN Stack CRUD Applications | Photographer | Audio Engineer
 
-<img align="left" src='https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-66fa0a7b-3891-46dc-b7f7-14a8ec836ef9-v1.png?transparent=1&palette=1'/>
+<img src='https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-66fa0a7b-3891-46dc-b7f7-14a8ec836ef9-v1.png?transparent=1&palette=1'/>
 
 ## Let's Connect
 
