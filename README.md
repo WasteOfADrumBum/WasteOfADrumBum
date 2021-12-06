@@ -5,9 +5,9 @@
 ## Let's Connect
 
 <a href="mailto:jmsmall89@gmail.com?subject='Found you on GitHub'" alt='gmail'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a alt='messenger' href=""><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
-<a alt='zoom' href=""><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"></a>
-<a alt='slack' href=""><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
+<a alt='messenger' href="m.me/WasteOfADrumBum"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
+<a alt='zoom' href="https://us04web.zoom.us/j/6224775885?pwd=TjRQQUpXekpjWDlTYzQ5eE9Nc3NoZz09"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"></a>
+<span><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></span>
 
 <a alt='linkedin' href="https://www.linkedin.com/in/joshuamsmall/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a alt='facebook' href="https://www.facebook.com/WasteOfADrumBum/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
