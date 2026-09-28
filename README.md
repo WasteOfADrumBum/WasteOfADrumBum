@@ -38,6 +38,12 @@ emergency-management workflows.
 
 ## 🚀 Featured Projects
 
+New projects are currently in development focused on full-stack TypeScript,
+cloud architecture, DevOps, and AI-enabled applications.
+
+Stay tuned — I'll be documenting the architecture, engineering decisions,
+testing, CI/CD, and deployment process here as I build.
+
 ### 🚧 Project One — Coming 2027
 
 AI-enabled full-stack SaaS application
