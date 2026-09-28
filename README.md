@@ -88,3 +88,9 @@ playing drums, working with live audio, taking photos, gaming, or getting outdoo
 <a href="https://account.xbox.com/Profile?Gamertag=Kidd%20Kaos%2069">
   <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
 </a>
+<a href="https://open.spotify.com/user/1224180199">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+</a>
+<a href="https://soundcloud.com/wasteofadrumbum">
+  <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white">
+</a>
