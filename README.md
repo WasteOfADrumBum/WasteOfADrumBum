@@ -8,7 +8,7 @@ emergency-management workflows.
 
 ## 🤝 Let's Connect
 
-<a href="https://joshsmall-portfolio.vercel.app/#contact">
+<a href="https://onesmall.company/#contact">
   <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge" alt="Contact Joshua through his portfolio">
 </a>
 <a href="https://www.linkedin.com/in/joshuamsmall/">
@@ -54,12 +54,13 @@ accessibility checks, design-token rules, quality gates, and secret redaction.
 
 ### One Small UI
 
-A published React component library with typed APIs, shared design tokens,
-SCSS styling, interactive documentation, and automated accessibility checks.
+A React component library published on npm as `@onesmall/ui`, with typed APIs,
+shared design tokens, SCSS styling, interactive documentation, and automated
+accessibility checks.
 
 **TypeScript • React • SCSS • Design Systems • Vitest • Playwright**
 
-[Documentation](https://one-small-ui.vercel.app) · [npm Package](https://www.npmjs.com/package/@onesmall/ui) · [Repository](https://github.com/WasteOfADrumBum/one-small-ui)
+[Documentation](https://ui.onesmall.company/) · [npm Package](https://www.npmjs.com/package/@onesmall/ui) · [Repository](https://github.com/WasteOfADrumBum/one-small-ui)
 
 ---
 
@@ -70,7 +71,7 @@ Google Drive notes. The public demo uses sample data.
 
 **JavaScript • HTML/CSS • Vercel Functions • Google Drive • Todoist**
 
-[Live Demo](https://cortex-brain-nu.vercel.app/demo) · [Repository](https://github.com/WasteOfADrumBum/cortex-brain-task)
+[Live Demo](https://cortex.onesmall.company/demo) · [Repository](https://github.com/WasteOfADrumBum/cortex-brain-task)
 
 ---
 
@@ -81,7 +82,7 @@ with bounded AI draft workflows, human review, and tested data-ownership boundar
 
 **TypeScript • React • Node.js / Express • MongoDB • GitHub Actions**
 
-[Live Demo](https://taskforge-alpha-six.vercel.app) · [Repository](https://github.com/WasteOfADrumBum/TaskForge) · [Architecture](https://github.com/WasteOfADrumBum/TaskForge/blob/main/docs/architecture.md)
+[Live Demo](https://task.onesmall.company/) · [Repository](https://github.com/WasteOfADrumBum/TaskForge) · [Architecture](https://github.com/WasteOfADrumBum/TaskForge/blob/main/docs/architecture.md)
 
 ## 🧠 Engineering Interests
 
@@ -92,6 +93,8 @@ AI-Enabled Applications • DevOps • Application Security
 
 When I'm not writing code, I'm usually spending time with my family,
 playing drums, working with live audio, taking photos, gaming, or getting outdoors.
+
+[Photography](https://photo.onesmall.company/) · [Music & Audio Studio](https://studio.onesmall.company/)
 
 <a href="https://steamcommunity.com/id/wasteofadrumbum/">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
