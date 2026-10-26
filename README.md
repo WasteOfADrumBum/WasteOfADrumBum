@@ -8,7 +8,7 @@ emergency-management workflows.
 
 ## 🤝 Let's Connect
 
-<a href="https://onesmall.company/#contact">
+<a href="https://onesmall.company/#top">
   <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge" alt="Contact Joshua through his portfolio">
 </a>
 <a href="https://www.linkedin.com/in/joshuamsmall/">
