@@ -1,3 +1,5 @@
+> **Retired reference — archive preparation.** This project is no longer maintained or deployed. See [RETIREMENT.md](RETIREMENT.md) for preservation notes and cleanup limits.
+
 # Hi, I'm Joshua 👋
 
 I'm a Full-Stack Software Engineer building production web applications,
@@ -8,7 +10,7 @@ emergency-management workflows.
 
 ## 🤝 Let's Connect
 
-<a href="mailto:jmsmall89@gmail.com?subject=Found%20you%20on%20GitHub">
+<a href="mailto:sample-52e532df@example.com?subject=Found%20you%20on%20GitHub">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/joshuamsmall/">
