@@ -1,5 +1,3 @@
-> **Retired reference — archive preparation.** This project is no longer maintained or deployed. See [RETIREMENT.md](RETIREMENT.md) for preservation notes and cleanup limits.
-
 # Hi, I'm Joshua 👋
 
 I'm a Full-Stack Software Engineer building production web applications,
@@ -10,8 +8,8 @@ emergency-management workflows.
 
 ## 🤝 Let's Connect
 
-<a href="mailto:sample-52e532df@example.com?subject=Found%20you%20on%20GitHub">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://joshsmall-portfolio.vercel.app/#contact">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge" alt="Contact Joshua through his portfolio">
 </a>
 <a href="https://www.linkedin.com/in/joshuamsmall/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -40,39 +38,50 @@ emergency-management workflows.
 
 ## 🚀 Featured Projects
 
-New projects are currently in development focused on full-stack TypeScript,
-cloud architecture, DevOps, and AI-enabled applications.
+Projects spanning AI developer tooling, reusable UI, personal productivity,
+and full-stack application engineering.
 
-Stay tuned! I'll be documenting the architecture, engineering decisions,
-testing, CI/CD, and deployment process here as I build.
+### One Small ModsPack
 
-### 🚧 Project One — Coming 2027
+TypeScript plugins for Claude Code that apply project guardrails: automated
+accessibility checks, design-token rules, quality gates, and secret redaction.
 
-AI-enabled full-stack SaaS application
+**TypeScript • AI Developer Tooling • Claude Code Plugins**
 
-**TypeScript • React • Node.js • PostgreSQL • AWS • Docker**
-
-[Live Demo] · [Repository] · [Architecture]
+[Repository](https://github.com/WasteOfADrumBum/one-small-mods-pack) · [Installation & Usage](https://github.com/WasteOfADrumBum/one-small-mods-pack#install)
 
 ---
 
-### 🚧 Project Two — Coming 2027
+### One Small UI
 
-Cloud-native event-driven application
+A published React component library with typed APIs, shared design tokens,
+SCSS styling, interactive documentation, and automated accessibility checks.
 
-**TypeScript • AWS • Terraform • Docker**
+**TypeScript • React • SCSS • Design Systems • Vitest • Playwright**
 
-[Live Demo] · [Repository] · [Architecture]
+[Documentation](https://one-small-ui.vercel.app) · [npm Package](https://www.npmjs.com/package/@onesmall/ui) · [Repository](https://github.com/WasteOfADrumBum/one-small-ui)
 
 ---
 
-### 🚧 Project Three — Coming 2027
+### Cortex Brain Task
 
-Developer productivity and automation platform
+A personal command center connecting tasks, calendars, weather, and
+Google Drive notes. The public demo uses sample data.
 
-**TypeScript • AI • GitHub Actions • Cloud**
+**JavaScript • HTML/CSS • Vercel Functions • Google Drive • Todoist**
 
-[Live Demo] · [Repository]
+[Live Demo](https://cortex-brain-nu.vercel.app/demo) · [Repository](https://github.com/WasteOfADrumBum/cortex-brain-task)
+
+---
+
+### TaskForge
+
+A full-stack workspace for private tasks, projects, and an agent registry,
+with bounded AI draft workflows, human review, and tested data-ownership boundaries.
+
+**TypeScript • React • Node.js / Express • MongoDB • GitHub Actions**
+
+[Live Demo](https://taskforge-alpha-six.vercel.app) · [Repository](https://github.com/WasteOfADrumBum/TaskForge) · [Architecture](https://github.com/WasteOfADrumBum/TaskForge/blob/main/docs/architecture.md)
 
 ## 🧠 Engineering Interests
 
