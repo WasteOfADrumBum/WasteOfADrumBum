@@ -18,11 +18,11 @@ emergency-management workflows.
 ## 🎯 What I'm Focused On
 
 - Full-stack TypeScript engineering
-- React and modern frontend architecture
-- Node.js APIs and backend services
-- PostgreSQL and data modeling
-- AWS and cloud infrastructure
-- Docker and CI/CD
+- React, Next.js, and modern frontend architecture
+- Node.js and Express APIs
+- MongoDB and data modeling
+- Vercel and production deployment
+- GitHub Actions and CI/CD
 - Automated testing
 - AI-enabled application development
 
@@ -30,10 +30,11 @@ emergency-management workflows.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ## 🚀 Featured Projects
@@ -78,9 +79,11 @@ Google Drive notes. The public demo uses sample data.
 ### TaskForge
 
 A full-stack workspace for private tasks, projects, and an agent registry,
-with bounded AI draft workflows, human review, and tested data-ownership boundaries.
+with bounded AI draft workflows, human review, and tested data-ownership
+boundaries. Started before AI coding tools existed; modernized with ChatGPT
+and Codex and running in production.
 
-**TypeScript • React • Node.js / Express • MongoDB • GitHub Actions**
+**React • TypeScript • Node.js / Express • MongoDB Atlas • Vercel • Render**
 
 [Live Demo](https://task.onesmall.company/) · [Repository](https://github.com/WasteOfADrumBum/TaskForge) · [Architecture](https://github.com/WasteOfADrumBum/TaskForge/blob/main/docs/architecture.md)
 
